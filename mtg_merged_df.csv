@@ -1,8 +1,254 @@
-,Name,Copies,Cost Generic,Cost Snow,Cost Colorless,Cost Variable,Cost 2-brid,Cost Phyrexian,Cost White,Cost Blue,Cost Black,Cost Red,Cost Green,Converted Mana Cost,Type Line,Text Box,Power,Toughness,Loyalty
-0,Standard Bearer,0,1,0,0,0,0,0,1,0,0,0,0,2,Creature — Human Flagbearer,"While an opponent is choosing targets as part of casting a spell they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.",1.0,1.0,
-1,Ponder,1,0,0,0,0,0,0,0,1,0,0,0,1,Sorcery,"Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+,Name,Cost Generic,Cost Snow,Cost Colorless,Cost Variable,Cost 2-brid,Cost Phyrexian,Cost White,Cost Blue,Cost Black,Cost Red,Cost Green,Converted Mana Cost,Type Line,Text Box,Power,Toughness,Loyalty
+0,Ghitu Lavarunner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Creature — Human Wizard,"As long as there are two or more instant and/or sorcery cards in your graveyard, Ghitu Lavarunner gets +1/+0 and has haste.",1.0,2.0,
+1,Thermo-Alchemist,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Creature — Human Shaman,"Defender
+: Thermo-Alchemist deals 1 damage to each opponent.
+Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist.",0.0,3.0,
+2,Chain Lightning,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Sorcery,"Chain Lightning deals 3 damage to any target. Then that player or that permanent's controller may pay . If the player does, they may copy this spell and may choose a new target for that copy.",,,
+3,Lava Spike,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Sorcery — Arcane,Lava Spike deals 3 damage to target player or planeswalker.,,,
+4,Lightning Bolt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Instant,Lightning Bolt deals 3 damage to any target.,,,
+5,Needle Drop,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Instant,"Needle Drop deals 1 damage to any target that was dealt damage this turn.
 Draw a card.",,,
-2,Pestilence,2,2,0,0,0,0,0,0,0,2,0,0,4,Enchantment,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.
-: Pestilence deals 1 damage to each creature and each player.",,,
-3,Lightning Bolt,3,0,0,0,0,0,0,0,0,0,1,0,1,Instant,Lightning Bolt deals 3 damage to any target.,,,
-4,Forest,4,,,,,,,,,,,,,Basic Land — Forest,G,,,
+6,Searing Blaze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,Instant,"Searing Blaze deals 1 damage to target player or planeswalker and 1 damage to target creature that player or that planeswalker's controller controls.
+Landfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player or planeswalker and 3 damage to that creature instead.",,,
+7,Rift Bolt,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,Sorcery,"Rift Bolt deals 3 damage to any target.
+Suspend 1— (Rather than cast this card from your hand, you may pay and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",,,
+8,Skewer the Critics,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,Sorcery,"Spectacle (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Skewer the Critics deals 3 damage to any target.",,,
+9,Fireblast,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,6.0,Instant,"You may sacrifice two Mountains rather than pay this spell's mana cost.
+Fireblast deals 4 damage to any target.",,,
+10,Curse of the Pierced Heart,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Enchantment — Aura Curse,"Enchant player
+At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player or a planeswalker that player controls.",,,
+11,Forgotten Cave,,,,,,,,,,,,,Land,"Forgotten Cave enters the battlefield tapped.
+: Add .
+Cycling (, Discard this card: Draw a card.)",,,
+12,Blazing Volley,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Sorcery,Blazing Volley deals 1 damage to each creature your opponents control.,,,
+13,Martyr of Ashes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Creature — Human Shaman,", Reveal X red cards from your hand, Sacrifice Martyr of Ashes: Martyr of Ashes deals X damage to each creature without flying.",1.0,1.0,
+14,Firebrand Archer,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Creature — Human Archer,"Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to each opponent.",2.0,1.0,
+15,Flaring Pain,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Instant,"Damage can't be prevented this turn.
+Flashback (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,
+16,Keldon Marauders,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Creature — Human Warrior,"Vanishing 2 (This creature enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player or planeswalker.",3.0,3.0,
+17,Smash to Smithereens,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Instant,Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.,,,
+18,Faerie Seer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Creature — Faerie Wizard,"Flying
+When Faerie Seer enters the battlefield, scry 2.",1.0,1.0,
+19,Augur of Bolas,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,Creature — Merfolk Wizard,"When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",1.0,3.0,
+20,Spellstutter Sprite,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,Creature — Faerie Wizard,"Flash
+Flying
+When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.",1.0,1.0,
+21,Moonblade Shinobi,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,Creature — Human Ninja,"Ninjutsu (, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Moonblade Shinobi deals combat damage to a player, create a 1/1 blue Illusion creature token with flying.",3.0,2.0,
+22,Ninja of the Deep Hours,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,Creature — Human Ninja,"Ninjutsu (, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card.",2.0,2.0,
+23,Thorn of the Black Rose,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,Creature — Human Assassin,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+When Thorn of the Black Rose enters the battlefield, you become the monarch.",1.0,3.0,
+24,Gurmag Angler,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,7.0,Creature — Zombie Fish,Delve (Each card you exile from your graveyard while casting this spell pays for .),5.0,5.0,
+25,Brainstorm,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Instant,"Draw three cards, then put two cards from your hand on top of your library in any order.",,,
+26,Ponder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Sorcery,"Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+Draw a card.",,,
+27,Preordain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Sorcery,"Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",,,
+28,Agony Warp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,Instant,"Target creature gets -3/-0 until end of turn.
+Target creature gets -0/-3 until end of turn.",,,
+29,Cast Down,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,Instant,Destroy target nonlegendary creature.,,,
+30,Counterspell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,Instant,Counter target spell.,,,
+31,Echoing Decay,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,Instant,Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.,,,
+32,Echoing Truth,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,Instant,Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.,,,
+33,Snuff Out,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,Instant,"If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.
+Destroy target nonblack creature. It can't be regenerated.",,,
+34,Ash Barrens,,,,,,,,,,,,,Land,": Add .
+Basic landcycling (, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)",,,
+35,Dismal Backwater,,,,,,,,,,,,,Land,"Dismal Backwater enters the battlefield tapped.
+When Dismal Backwater enters the battlefield, you gain 1 life.
+: Add or .",,,
+36,Snow-Covered Island,,,,,,,,,,,,,Basic Snow Land — Island,U,,,
+37,Snow-Covered Swamp,,,,,,,,,,,,,Basic Snow Land — Swamp,B,,,
+38,Terramorphic Expanse,,,,,,,,,,,,,Land,", Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",,,
+39,Dispel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Instant,Counter target instant spell.,,,
+40,Hydroblast,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Instant,"Choose one —
+• Counter target spell if it's red.
+• Destroy target permanent if it's red.",,,
+41,Relic of Progenitus,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Artifact,": Target player exiles a card from their graveyard.
+, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.",,,
+42,Chainer's Edict,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,Sorcery,"Target player sacrifices a creature.
+Flashback (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,
+43,Cartouche of Ambition,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,Enchantment — Aura Cartouche,"Enchant creature you control
+When Cartouche of Ambition enters the battlefield, you may put a -1/-1 counter on target creature.
+Enchanted creature gets +1/+1 and has lifelink.",,,
+44,Stormbound Geist,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,Creature — Spirit,"Flying
+Stormbound Geist can block only creatures with flying.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",2.0,2.0,
+45,Suffocating Fumes,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,Instant,"Creatures your opponents control get -1/-1 until end of turn.
+Cycling (, Discard this card: Draw a card.)",,,
+46,God-Pharaoh's Faithful,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Creature — Human Wizard,"Whenever you cast a blue, black, or red spell, you gain 1 life.",0.0,4.0,
+47,Sunscape Familiar,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,Creature — Wall,"Defender (This creature can't attack.)
+Green spells and blue spells you cast cost less to cast.",0.0,3.0,
+48,Sage's Row Denizen,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,Creature — Vedalken Wizard,"Whenever another blue creature enters the battlefield under your control, target player mills two cards.",2.0,3.0,
+49,Sea Gate Oracle,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,Creature — Human Wizard,"When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.",1.0,3.0,
+50,Stonehorn Dignitary,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,Creature — Rhino Soldier,"When Stonehorn Dignitary enters the battlefield, target opponent skips their next combat phase.",1.0,4.0,
+51,Mnemonic Wall,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,Creature — Wall,"Defender
+When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.",0.0,4.0,
+52,Mulldrifter,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,Creature — Elemental,"Flying
+When Mulldrifter enters the battlefield, draw two cards.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",2.0,2.0,
+53,Ephemerate,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Instant,"Exile target creature you control, then return it to the battlefield under its owner's control.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",,,
+54,Negate,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,Instant,Counter target noncreature spell.,,,
+55,Prohibit,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,Instant,"Kicker (You may pay an additional as you cast this spell.)
+Counter target spell if its converted mana cost is 2 or less. If this spell was kicked, counter that spell if its converted mana cost is 4 or less instead.",,,
+56,Ghostly Flicker,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,Instant,"Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.",,,
+57,Deep Analysis,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,Sorcery,"Target player draws two cards.
+Flashback—, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,
+58,Azorius Chancery,,,,,,,,,,,,,Land,"Azorius Chancery enters the battlefield tapped.
+When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
+: Add .",,,
+59,Evolving Wilds,,,,,,,,,,,,,Land,", Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",,,
+60,Mortuary Mire,,,,,,,,,,,,,Land,"Mortuary Mire enters the battlefield tapped.
+When Mortuary Mire enters the battlefield, you may put target creature card from your graveyard on top of your library.
+: Add .",,,
+61,Plains,,,,,,,,,,,,,Basic Land — Plains,W,,,
+62,Nature's Chant,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,Instant,Destroy target artifact or enchantment.,,,
+63,Aven Riftwatcher,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,Creature — Bird Rebel Soldier,"Flying
+Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Aven Riftwatcher enters the battlefield or leaves the battlefield, you gain 2 life.",2.0,3.0,
+64,Exclude,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,Instant,"Counter target creature spell.
+Draw a card.",,,
+65,Serrated Arrows,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,Artifact,"Serrated Arrows enters the battlefield with three arrowhead counters on it.
+At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.
+, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.",,,
+66,Delver of Secrets,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Creature — Human Wizard,"At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.",1.0,1.0,
+67,Spire Golem,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,Artifact Creature — Golem,"Affinity for Islands (This spell costs less to cast for each Island you control.)
+Flying",2.0,4.0,
+68,Spell Pierce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Instant,Counter target noncreature spell unless its controller pays .,,,
+69,Frantic Inventory,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,Instant,"Draw a card, then draw cards equal to the number of cards named Frantic Inventory in your graveyard.",,,
+70,Coral Net,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Enchantment — Aura,"Enchant green or white creature
+Enchanted creature has ""At the beginning of your upkeep, sacrifice this creature unless you discard a card.""",,,
+71,Gut Shot,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Instant,"( can be paid with either or 2 life.)
+Gut Shot deals 1 damage to any target.",,,
+72,Vulshok Morningstar,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Artifact — Equipment,"Equipped creature gets +2/+2.
+Equip (: Attach to target creature you control. Equip only as a sorcery.)",,,
+73,Winter's Rest,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,Snow Enchantment — Aura,"Enchant creature
+When Winter's Rest enters the battlefield, tap enchanted creature.
+As long as you control another snow permanent, enchanted creature doesn't untap during its controller's untap step.",,,
+74,Gladecover Scout,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Creature — Elf Scout,Hexproof (This creature can't be the target of spells or abilities your opponents control.),1.0,1.0,
+75,Slippery Bogle,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,Creature — Beast,Hexproof (This creature can't be the target of spells or abilities your opponents control.),1.0,1.0,
+76,Silhana Ledgewalker,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Creature — Elf Rogue,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Silhana Ledgewalker can't be blocked except by creatures with flying.",1.0,1.0,
+77,Heliod's Pilgrim,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,Creature — Human Cleric,"When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.",1.0,2.0,
+78,Ram Through,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Instant,"Target creature you control deals damage equal to its power to target creature you don't control. If the creature you control has trample, excess damage is dealt to that creature's controller instead.",,,
+79,Abundant Growth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Enchantment — Aura,"Enchant land
+When Abundant Growth enters the battlefield, draw a card.
+Enchanted land has "": Add one mana of any color.""",,,
+80,Cartouche of Solidarity,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Enchantment — Aura Cartouche,"Enchant creature you control
+When Cartouche of Solidarity enters the battlefield, create a 1/1 white Warrior creature token with vigilance.
+Enchanted creature gets +1/+1 and has first strike.",,,
+81,Ethereal Armor,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",,,
+82,Rancor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.",,,
+83,Utopia Sprawl,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Enchantment — Aura,"Enchant Forest
+As Utopia Sprawl enters the battlefield, choose a color.
+Whenever enchanted Forest is tapped for mana, its controller adds an additional one mana of the chosen color.",,,
+84,Ancestral Mask,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 for each other enchantment on the battlefield.",,,
+85,Armadillo Cloak,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and has trample.
+Whenever enchanted creature deals damage, you gain that much life.",,,
+86,Cave of Temptation,,,,,,,,,,,,,Land,": Add .
+, : Add one mana of any color.
+, , Sacrifice Cave of Temptation: Put two +1/+1 counters on target creature. Activate this ability only any time you could cast a sorcery.",,,
+87,Crumbling Vestige,,,,,,,,,,,,,Land,"Crumbling Vestige enters the battlefield tapped.
+When Crumbling Vestige enters the battlefield, add one mana of any color.
+: Add . ( represents colorless mana.)",,,
+88,Khalni Garden,,,,,,,,,,,,,Land,"Khalni Garden enters the battlefield tapped.
+When Khalni Garden enters the battlefield, create a 0/1 green Plant creature token.
+: Add .",,,
+89,Electrickery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Instant,"Electrickery deals 1 damage to target creature you don't control.
+Overload (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of ""target"" with ""each."")",,,
+90,Lifelink,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)",,,
+91,Natural State,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Instant,Destroy target artifact or enchantment with converted mana cost 3 or less.,,,
+92,Young Wolf,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Creature — Wolf,"Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",1.0,1.0,
+93,Crimson Acolyte,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,Creature — Human Cleric,"Protection from red
+: Target creature gains protection from red until end of turn.",1.0,1.0,
+94,Standard Bearer,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,Creature — Human Flagbearer,"While an opponent is choosing targets as part of casting a spell they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.",1.0,1.0,
+95,Essence Harvest,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,Sorcery,"Target player loses X life and you gain X life, where X is the greatest power among creatures you control.",,,
+96,Carapace Forger,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Creature — Elf Artificer,Metalcraft — Carapace Forger gets +2/+2 as long as you control three or more artifacts.,2.0,2.0,
+97,Frogmite,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,Artifact Creature — Frog,Affinity for artifacts (This spell costs less to cast for each artifact you control.),2.0,2.0,
+98,Gearseeker Serpent,5.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,7.0,Creature — Serpent,"This spell costs less to cast for each artifact you control.
+: Gearseeker Serpent can't be blocked this turn.",5.0,6.0,
+99,Myr Enforcer,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,Artifact Creature — Myr,Affinity for artifacts (This spell costs less to cast for each artifact you control.),4.0,4.0,
+100,Galvanic Blast,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Instant,"Galvanic Blast deals 2 damage to any target.
+Metalcraft — Galvanic Blast deals 4 damage instead if you control three or more artifacts.",,,
+101,Fling,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Instant,"As an additional cost to cast this spell, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to any target.",,,
+102,Temur Battle Rage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Instant,"Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+Ferocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater.",,,
+103,Thoughtcast,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,Sorcery,"Affinity for artifacts (This spell costs less to cast for each artifact you control.)
+Draw two cards.",,,
+104,Chromatic Star,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Artifact,", , Sacrifice Chromatic Star: Add one mana of any color.
+When Chromatic Star is put into a graveyard from the battlefield, draw a card.",,,
+105,Flayer Husk,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Artifact — Equipment,"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+Equipped creature gets +1/+1.
+Equip",,,
+106,Springleaf Drum,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Artifact,", Tap an untapped creature you control: Add one mana of any color.",,,
+107,Ichor Wellspring,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Artifact,"When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.",,,
+108,Prophetic Prism,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Artifact,"When Prophetic Prism enters the battlefield, draw a card.
+, : Add one mana of any color.",,,
+109,Darksteel Citadel,,,,,,,,,,,,,Artifact Land,"Indestructible
+: Add .",,,
+110,Great Furnace,,,,,,,,,,,,,Artifact Land,: Add .,,,
+111,Seat of the Synod,,,,,,,,,,,,,Artifact Land,"(Seat of the Synod isn't a spell.)
+: Add .",,,
+112,Tree of Tales,,,,,,,,,,,,,Artifact Land,"(Tree of Tales isn't a spell.)
+: Add .",,,
+113,Gorilla Shaman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Creature — Ape Shaman,: Destroy target noncreature artifact with converted mana cost X.,1.0,1.0,
+114,Krark-Clan Shaman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Creature — Goblin Shaman,Sacrifice an artifact: Krark-Clan Shaman deals 1 damage to each creature without flying.,1.0,1.0,
+115,Pyroblast,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Instant,"Choose one —
+• Counter target spell if it's blue.
+• Destroy target permanent if it's blue.",,,
+116,Serene Heart,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Instant,Destroy all Auras.,,,
+117,Nettle Sentinel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Creature — Elf Warrior,"Nettle Sentinel doesn't untap during your untap step.
+Whenever you cast a green spell, you may untap Nettle Sentinel.",2.0,2.0,
+118,Quirion Ranger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Creature — Elf,Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.,1.0,1.0,
+119,Skarrgan Pit-Skulk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Creature — Human Warrior,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Creatures with power less than Skarrgan Pit-Skulk's power can't block it.",1.0,1.0,
+120,Burning-Tree Emissary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,Creature — Human Shaman,"When Burning-Tree Emissary enters the battlefield, add .",2.0,2.0,
+121,Nest Invader,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Creature — Eldrazi Drone,"When Nest Invader enters the battlefield, create a 0/1 colorless Eldrazi Spawn creature token. It has ""Sacrifice this creature: Add .""",2.0,2.0,
+122,River Boa,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Creature — Snake,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+: Regenerate River Boa.",2.0,1.0,
+123,Vault Skirge,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,Artifact Creature — Imp,"( can be paid with either or 2 life.)
+Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",1.0,1.0,
+124,Hunger of the Howlpack,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Instant,"Put a +1/+1 counter on target creature.
+Morbid — Put three +1/+1 counters on that creature instead if a creature died this turn.",,,
+125,Savage Swipe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Sorcery,Target creature you control gets +2/+2 until end of turn if its power is 2. Then it fights target creature you don't control. (Each deals damage equal to its power to the other.),,,
+126,Vines of Vastwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Instant,"Kicker (You may pay an additional as you cast this spell.)
+Target creature can't be the target of spells or abilities your opponents control this turn. If this spell was kicked, that creature gets +4/+4 until end of turn.",,,
+127,Elephant Guide,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +3/+3.
+When enchanted creature dies, create a 3/3 green Elephant creature token.",,,
+128,Viridian Longbow,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Artifact — Equipment,"Equipped creature has "": This creature deals 1 damage to any target.""
+Equip (: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",,,
+129,Epic Confrontation,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Sorcery,Target creature you control gets +1/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.),,,
+130,Gleeful Sabotage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Sorcery,"Destroy target artifact or enchantment.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",,,
+131,Weather the Storm,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Instant,"You gain 3 life.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)",,,
+132,Aura Gnarlid,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,Creature — Beast,"Creatures with power less than Aura Gnarlid's power can't block it.
+Aura Gnarlid gets +1/+1 for each Aura on the battlefield.",2.0,2.0,
+133,Benefaction of Rhonas,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,Sorcery,Reveal the top five cards of your library. You may put a creature card and/or an enchantment card from among them into your hand. Put the rest into your graveyard.,,,
+134,Urban Utopia,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Enchantment — Aura,"Enchant land
+When Urban Utopia enters the battlefield, draw a card.
+Enchanted land has "": Add one mana of any color.""",,,
+135,Snow-Covered Forest,,,,,,,,,,,,,Basic Snow Land — Forest,G,,,
+136,Snow-Covered Plains,,,,,,,,,,,,,Basic Snow Land — Plains,W,,,
+137,Duress,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Sorcery,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",,,
+138,Return to Nature,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Instant,"Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.",,,
+139,Mountain,,,,,,,,,,,,,Basic Land — Mountain,R,,,
+140,Snap,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,Instant,Return target creature to its owner's hand. Untap up to two lands.,,,
+141,Island,,,,,,,,,,,,,Basic Land — Island,U,,,
+142,Forest,,,,,,,,,,,,,Basic Land — Forest,G,,,
+143,Atog,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,Creature — Atog,Sacrifice an artifact: Atog gets +2/+2 until end of turn.,1.0,2.0,
