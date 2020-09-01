@@ -1,0 +1,8 @@
+,Name,Copies,Cost Generic,Cost Snow,Cost Colorless,Cost Variable,Cost 2-brid,Cost Phyrexian,Cost White,Cost Blue,Cost Black,Cost Red,Cost Green,Converted Mana Cost,Type Line,Text Box,Power,Toughness,Loyalty
+0,Standard Bearer,0,1,0,0,0,0,0,1,0,0,0,0,2,Creature — Human Flagbearer,"While an opponent is choosing targets as part of casting a spell they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.",1.0,1.0,
+1,Ponder,1,0,0,0,0,0,0,0,1,0,0,0,1,Sorcery,"Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+Draw a card.",,,
+2,Pestilence,2,2,0,0,0,0,0,0,0,2,0,0,4,Enchantment,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.
+: Pestilence deals 1 damage to each creature and each player.",,,
+3,Lightning Bolt,3,0,0,0,0,0,0,0,0,0,1,0,1,Instant,Lightning Bolt deals 3 damage to any target.,,,
+4,Forest,4,,,,,,,,,,,,,Basic Land — Forest,G,,,
