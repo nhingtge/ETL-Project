@@ -26,6 +26,7 @@ This project was done for a data visualization bootcamp with particular interest
 ## Technologies
 * Python version: 3.6.10.final.0
 * Pandas version: 1.0.4
+* Jupyter Notebooks: 6.0.3
 * Splinter
 * BeautifulSoup
 * Chromedriver
